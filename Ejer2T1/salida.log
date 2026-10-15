@@ -1,0 +1,86 @@
+
+C:\_ESTHER_\DAM2\_SEGUNDO A_\PSP\PSP2\Ejer2T1>echo Comenzando ejecuci贸n 
+Comenzando ejecuci贸n
+
+C:\_ESTHER_\DAM2\_SEGUNDO A_\PSP\PSP2\Ejer2T1>date /t 
+15/10/2026 
+
+C:\_ESTHER_\DAM2\_SEGUNDO A_\PSP\PSP2\Ejer2T1>time /t 
+15:12
+
+C:\_ESTHER_\DAM2\_SEGUNDO A_\PSP\PSP2\Ejer2T1>dir
+ El volumen de la unidad C es SISTEMA
+ El nero de serie del volumen es: A249-C2E9
+
+ Directorio de C:\_ESTHER_\DAM2\_SEGUNDO A_\PSP\PSP2\Ejer2T1
+
+15/10/2026  15:12    <DIR>          .
+15/10/2026  14:54    <DIR>          ..
+15/10/2026  14:54               344 .gitignore
+15/10/2026  15:12    <DIR>          .idea
+15/10/2026  15:12                86 comandos.bat
+15/10/2026  14:55               433 Ejer2T1.iml
+15/10/2026  15:12                 0 errores.log
+15/10/2026  15:08                 0 errores.txt
+15/10/2026  14:55    <DIR>          out
+15/10/2026  15:12                 0 salida.log
+15/10/2026  15:08               787 salida.txt
+15/10/2026  15:12    <DIR>          src
+               7 archivos          1.650 bytes
+               5 dirs  147.805.831.168 bytes libres
+
+C:\_ESTHER_\DAM2\_SEGUNDO A_\PSP\PSP2\Ejer2T1>ipconfig
+
+Configuraci IP de Windows
+
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS especico para la conexi. . : 
+   Vculo: direcci IPv6 local. . . : fe80::d2e9:88b0:2cc6:3813%18
+   Direcci IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M爏cara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de LAN inal爉brica Conexi de 爎ea local* 9:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS especico para la conexi. . : 
+
+Adaptador de LAN inal爉brica Conexi de 爎ea local* 10:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS especico para la conexi. . : 
+
+Adaptador de LAN inal爉brica Wi-Fi:
+
+   Sufijo DNS especico para la conexi. . : Home
+   Vculo: direcci IPv6 local. . . : fe80::d6ac:f79b:b4b1:5bc6%12
+   Direcci IPv4. . . . . . . . . . . . . . : 192.168.1.45
+   M爏cara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::4648:b9ff:fed3:ef0%12
+                                       192.168.1.1
+
+Adaptador de Ethernet Conexi de red Bluetooth:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS especico para la conexi. . : 
+
+Adaptador de Ethernet vEthernet (Default Switch):
+
+   Sufijo DNS especico para la conexi. . : 
+   Vculo: direcci IPv6 local. . . : fe80::84f3:1eac:61d1:d881%36
+   Direcci IPv4. . . . . . . . . . . . . . : 172.21.16.1
+   M爏cara de subred . . . . . . . . . . . . : 255.255.240.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de Ethernet vEthernet (WSL (Hyper-V firewall)):
+
+   Sufijo DNS especico para la conexi. . : 
+   Vculo: direcci IPv6 local. . . : fe80::1a2b:5e72:438f:1631%55
+   Direcci IPv4. . . . . . . . . . . . . . : 172.17.64.1
+   M爏cara de subred . . . . . . . . . . . . : 255.255.240.0
+   Puerta de enlace predeterminada . . . . . : 
+
+C:\_ESTHER_\DAM2\_SEGUNDO A_\PSP\PSP2\Ejer2T1>echo Fin de la ejecuci贸n 
+Fin de la ejecuci贸n

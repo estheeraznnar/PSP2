@@ -1,0 +1,21 @@
+Usuario actual: 
+pc-esther\esther
+Directorio actual: 
+C:\_ESTHER_\DAM2\_SEGUNDO A¥O_\PSP\PSP2\Ejer2T1
+Contenido del directorio: 
+ El volumen de la unidad C es SISTEMA
+ El n£mero de serie del volumen es: A249-C2E9
+
+ Directorio de C:\_ESTHER_\DAM2\_SEGUNDO A¥O_\PSP\PSP2\Ejer2T1
+
+15/10/2026  14:58    <DIR>          .
+15/10/2026  14:54    <DIR>          ..
+15/10/2026  14:54               344 .gitignore
+15/10/2026  15:08    <DIR>          .idea
+15/10/2026  14:55               433 Ejer2T1.iml
+15/10/2026  15:08                 0 errores.txt
+15/10/2026  14:55    <DIR>          out
+15/10/2026  15:08                 0 salida.txt
+15/10/2026  15:08    <DIR>          src
+               4 archivos            777 bytes
+               5 dirs  147.807.363.072 bytes libres

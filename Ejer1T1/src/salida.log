@@ -1,0 +1,20 @@
+
+C:\_ESTHER_\DAM2\_SEGUNDO A¥O_\PSP\PSP2\Ejer1T1>ping www.dam2chomon.org 
+La solicitud de ping no pudo encontrar el host www.dam2chomon.org. Compruebe el nombre y
+vuelva a intentarlo.
+
+C:\_ESTHER_\DAM2\_SEGUNDO A¥O_\PSP\PSP2\Ejer1T1>ping www.google.es 
+
+Haciendo ping a www.google.es [216.58.205.35] con 32 bytes de datos:
+Respuesta desde 216.58.205.35: bytes=32 tiempo=17ms TTL=116
+Respuesta desde 216.58.205.35: bytes=32 tiempo=14ms TTL=116
+Respuesta desde 216.58.205.35: bytes=32 tiempo=16ms TTL=116
+Respuesta desde 216.58.205.35: bytes=32 tiempo=16ms TTL=116
+
+Estad¡sticas de ping para 216.58.205.35:
+    Paquetes: enviados = 4, recibidos = 4, perdidos = 0
+    (0% perdidos),
+Tiempos aproximados de ida y vuelta en milisegundos:
+    M¡nimo = 14ms, M ximo = 17ms, Media = 15ms
+
+C:\_ESTHER_\DAM2\_SEGUNDO A¥O_\PSP\PSP2\Ejer1T1>pring www.iesch.org 
